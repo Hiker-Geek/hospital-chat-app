@@ -1,5 +1,5 @@
 import React from 'react'
-import { Avatar, useChatContext } from 'stream-chart-react';
+import { Avatar, useChatContext } from 'stream-chat-react';
 
 const TeamChannelPreview = ({ channel, type }) => {
     const { channel: activeChannel, client } = useChatContext();
