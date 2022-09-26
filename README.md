@@ -6,7 +6,7 @@ Current sign in page:
 ![image](https://user-images.githubusercontent.com/77985155/192205376-126b63da-0a16-4fa0-8620-e78fbfa31f83.png)
 Current chat app layout:
 ![image](https://user-images.githubusercontent.com/77985155/192204010-e5a12b65-c145-46b5-b7c3-4aa96e2a75f1.png)
-
+*Note that this is not what the finished project will look like. This is the project about 1/4 of a way through.
 
 # Getting Started with Create React App
 
