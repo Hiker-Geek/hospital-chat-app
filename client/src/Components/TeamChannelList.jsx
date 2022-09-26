@@ -1,6 +1,5 @@
-import React from 'react'
-
-import { AddChannel } from '../assets'
+import React from 'react';
+import { AddChannel } from '../assets';
 
 const TeamChannelList = ({ children, error = false, loading, type }) => {
   if(error){
@@ -34,4 +33,4 @@ const TeamChannelList = ({ children, error = false, loading, type }) => {
   )
 }
 
-export default TeamChannelList
+export default TeamChannelList;
