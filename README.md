@@ -2,6 +2,12 @@
 Goal: Create a hospital-themed full stack chat app in React. This app will have profiles, authentification,
 IM messaging, group chats, emojis, and everything you'd expect out of a standard chat application such as slack, kick, whatsapp, and etc.
 
+Current sign in page:
+![image](https://user-images.githubusercontent.com/77985155/192203870-2cea5196-e8d7-4f75-b080-8e584906f157.png)
+Current chat app layout:
+![image](https://user-images.githubusercontent.com/77985155/192204010-e5a12b65-c145-46b5-b7c3-4aa96e2a75f1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
