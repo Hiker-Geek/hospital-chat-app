@@ -1,5 +1,5 @@
 # hospital-chat-app
-Goal: Create a hospital-themed full stack chat app in React. This app will have profiles, authentification,
+Goal: Create a hospital-themed full stack chat app in ReactJS. This app will have profiles, authentification,
 IM messaging, group chats, emojis, and everything you'd expect out of a standard chat application such as slack, kick, whatsapp, and etc.
 
 ## Current sign in page:
