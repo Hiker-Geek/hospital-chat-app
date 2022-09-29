@@ -5,7 +5,7 @@ IM messaging, group chats, emojis, and everything you'd expect out of a standard
 ## Current sign up page:
 
 https://user-images.githubusercontent.com/77985155/192929794-e3500a16-83e5-46e2-bbd2-ca5659d1eab2.mp4
-*The above depicts a user creating an account with a username, password, phone number, and avatar, and showing the console saving this account as a new object*
+<br> *The above depicts a user creating an account with a username, password, phone number, and avatar, and showing the console saving this account as a new object*
 
 
 
